@@ -1,5 +1,5 @@
 {
   "token": "PutYourBotTokenHere",
   "cmdPrefix": "CommandPrefix",
-  "ownerID": YourDiscordIdAsNumericValue
+  "ownerID": 1234
 }
