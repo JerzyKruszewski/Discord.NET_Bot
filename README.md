@@ -8,3 +8,5 @@
 5. Put config.json in {build path}\Resources\Config folder
 6. Run your bot again
 7. Configure your bot
+
+WARNING: THIS REPOSITORY LIKELY WON'T BE UPDATED. IF YOU FIND A BUG, YOU WILL HAVE TO FIX IT YOURSELF.
