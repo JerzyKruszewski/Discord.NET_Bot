@@ -169,7 +169,7 @@ namespace DiscordBOT
                 {
                     await channel.SendMessageAsync("Done, and done!");
                     IGuildUser user = reaction.User.Value as IGuildUser;
-                    IRole role = user.Guild.Roles.FirstOrDefault(x => x.Id == 475000715329142803); //kalosz
+                    IRole role = user.Guild.Roles.FirstOrDefault();
                     await user.AddRoleAsync(role);
                 }
             }
